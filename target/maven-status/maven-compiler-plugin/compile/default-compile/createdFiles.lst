@@ -1,0 +1,10 @@
+com/transportadora/dao/EnderecoDaoImpl$EnderecoMapper.class
+com/transportadora/controller/EnderecoController.class
+com/transportadora/dao/EnderecoDaoImpl.class
+com/transportadora/config/WebInitializer.class
+com/transportadora/service/EnderecoServiceImpl.class
+com/transportadora/config/WebConfig.class
+com/transportadora/service/EnderecoService.class
+com/transportadora/dao/EnderecoDao.class
+com/transportadora/dao/EnderecoDaoImpl$1.class
+com/transportadora/model/Endereco.class
